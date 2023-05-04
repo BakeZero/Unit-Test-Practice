@@ -50,7 +50,7 @@ namespace UnitTesting
                         str += " cents";
                     return str.Trim();
                 }
-                // Does not support above a million yet
+
                 switch (len)
                 {
                     case 13: // Billion
